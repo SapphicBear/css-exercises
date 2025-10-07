@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.text-size {
+    font-size:28px;
+    font-family: Helvetica, "Times New Roman" sans-serif;
+}
+.but1 {
+    background-color: black;
+    color:white;
+}
+.but2 {
+    background-color: yellow;
+    color:black;
+}
+/* I'm looking at the solutions and I think I am still getting hung up on combining the selectors on the HTML document and not here on the CSS sheet. It is very interesting that both options work, I am guessing that the solution's way is cleaner. I have to change how I think about CSS. */
